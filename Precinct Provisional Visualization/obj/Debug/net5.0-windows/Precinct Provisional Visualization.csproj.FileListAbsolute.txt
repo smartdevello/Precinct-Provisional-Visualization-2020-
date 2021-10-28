@@ -1,0 +1,6 @@
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\net5.0-windows\Precinct Provisional Visualization.csproj.AssemblyReference.cache
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\net5.0-windows\App.g.cs
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\net5.0-windows\Precinct Provisional Visualization_MarkupCompile.cache
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\net5.0-windows\Precinct Provisional Visualization_MarkupCompile.lref
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\net5.0-windows\Precinct Provisional Visualization.csproj.ResolveComReference.cache

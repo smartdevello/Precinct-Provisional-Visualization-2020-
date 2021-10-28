@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Precinct Provisional Visualization", "Precinct Provisional Visualization\Precinct Provisional Visualization.csproj", "{9AA6B6D5-ED4D-42C8-A9BF-099109135BEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AA6B6D5-ED4D-42C8-A9BF-099109135BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA6B6D5-ED4D-42C8-A9BF-099109135BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA6B6D5-ED4D-42C8-A9BF-099109135BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA6B6D5-ED4D-42C8-A9BF-099109135BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1463254C-203E-4F8B-85BF-31B40D046651}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,98 @@
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.exe
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.deps.json
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.runtimeconfig.json
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.runtimeconfig.dev.json
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.dll
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.pdb
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\App.g.cs
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization_MarkupCompile.cache
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization_MarkupCompile.lref
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.g.resources
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.AssemblyInfoInputs.cache
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.AssemblyInfo.cs
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.csproj.CoreCompileInputs.cache
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.dll
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.pdb
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.genruntimeconfig.cache
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.csproj.CopyComplete
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\NPOI.dll
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+D:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.csproj.AssemblyReference.cache
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.exe
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.deps.json
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.runtimeconfig.json
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.runtimeconfig.dev.json
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.dll
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.pdb
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\CsvHelper.dll
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\NPOI.dll
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.csproj.AssemblyReference.cache
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\App.g.cs
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization_MarkupCompile.cache
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization_MarkupCompile.lref
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.g.resources
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.AssemblyInfoInputs.cache
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.AssemblyInfo.cs
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.csproj.CoreCompileInputs.cache
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.csproj.CopyComplete
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.dll
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.pdb
+E:\My Work\2021\7\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.genruntimeconfig.cache
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.exe
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.deps.json
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.runtimeconfig.json
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.runtimeconfig.dev.json
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.dll
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Precinct Provisional Visualization.pdb
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\CsvHelper.dll
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\NPOI.dll
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\App.g.cs
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization_MarkupCompile.cache
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization_MarkupCompile.lref
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.g.resources
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.AssemblyInfoInputs.cache
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.AssemblyInfo.cs
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.csproj.CoreCompileInputs.cache
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.csproj.CopyComplete
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.dll
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.pdb
+E:\My Work\2021\9\Precinct Provisional Visualization\Precinct Provisional Visualization\obj\Debug\netcoreapp3.1\Precinct Provisional Visualization.genruntimeconfig.cache
